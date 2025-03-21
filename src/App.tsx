@@ -18,11 +18,7 @@ function App() {
                 className="h-12 sm:h-16 object-contain hover:scale-105 transition-transform duration-300"
               />
               <div className="h-8 w-px bg-gray-300 hidden sm:block"></div>
-              <img 
-                src="https://th.bing.com/th/id/OIP.tcykkNfMXpIR5fTYHYkjZAHaCl?rs=1&pid=ImgDetMain" 
-                alt="Cámara de Comercio Logo" 
-                className="h-8 sm:h-12 object-contain hover:scale-105 transition-transform duration-300"
-              />
+              
             </div>
             <div className="flex items-center">
               <a 
